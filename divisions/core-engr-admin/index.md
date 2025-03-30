@@ -1,6 +1,5 @@
-Core (Backend) Engineering - Administration
+# Core (Backend) Engineering - Administration
 
-## Description:
 This division is in charge of the Command Line Interface (CLI) and other code which provides solutions for the "meta"/admin tasks of running the MARS core itself. A quintessential example is that of an end-user contacting MARS with a request to reset their password. This division writes the CLI code which allows a MARS administrator to do that password reset. It also includes all logs, "manual overrides" unavailable to outside users, and the source of all "technical / back of house" system emails (which are processed by code written by the notification division). Final technical decisions about the way MARS (when it's running in production) is accessed by Martians (except for select security areas) lie with this division.
 
 ## Typical users/customers of the division:

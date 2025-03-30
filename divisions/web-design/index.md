@@ -1,6 +1,4 @@
-Website (Frontend) - UX-UI Design
-
-## Description:
+# Website (Frontend) - UX-UI Design
 This division owns the user experience and user interface design of MARS. Final decisions about the user experience and user interface design lie with this division.
 
 ## Typical users/customers of the division:

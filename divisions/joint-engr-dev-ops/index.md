@@ -1,6 +1,4 @@
 # Joint Web+Core - Infrastructure, CI/CD, and Quality Assurance
-
-## Description:
 The division, our "dev ops" division, is in charge of the servers where MARS is hosted, the domain names, DNS, internal networks, deployments, ensuring that uptime is 99%+, the mechanics of how the code gets on to the server in a timely manner (e.g., containerization), and they are also the first responders when users report catastrophic issues with MARS. All Martians must receive final sign-off from this division on their work before the code goes live / is accepted into the "Main" branch. The launch files (e.g., main.py, server.ts) are owned by this division. Final decisions about code documentation, and whether the code is allowed to run in production, lie with this division.
 
 ## Typical users/customers of the division:

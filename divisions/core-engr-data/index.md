@@ -1,6 +1,4 @@
-Core (Backend) Engineering - Data persistence
-
-## Description:
+# Core (Backend) Engineering - Data persistence
 This division is in charge of databases, file storage, data lakes / warehouses, and general information persistance. Final decisions about data storage (except for select security areas) lie with this division.
 
 ## Typical users/customers of the division:

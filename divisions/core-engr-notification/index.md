@@ -1,6 +1,4 @@
-Core (Backend) Engineering - Notification
-
-## Description:
+# Core (Backend) Engineering - Notification
 This division is in charge of all notifications to users and non-MARS systems which don't occur directly on the website. Final decisions about automated emails, RSS updates, text messaging, push notifications, posts to X/Twitter/Bluesky, etc., (except for select security areas) lie with this division.
 
 ## Typical users/customers of the division:

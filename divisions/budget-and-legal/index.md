@@ -1,6 +1,4 @@
 # Budget and Legal
-
-## Description:
 The budget and legal division is in charge of the money and legal matters.
 
 ## Typical users/customers of the division:

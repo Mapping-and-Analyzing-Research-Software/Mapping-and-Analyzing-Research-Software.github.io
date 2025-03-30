@@ -1,6 +1,4 @@
-Website (Frontend) - Engineering
-
-## Description:
+# Website (Frontend) - Engineering
 This division owns all the code of the MARS website. Final decisions about the front-end code (except for select security areas) lie with this division.
 
 ## Typical users/customers of the division:

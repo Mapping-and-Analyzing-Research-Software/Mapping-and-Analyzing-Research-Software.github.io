@@ -1,6 +1,4 @@
-Core (Backend) Engineering - Business logic and API
-
-## Description:
+# Core (Backend) Engineering - Business logic and API
 This division is the primary "backend" division. It owns all the API endpoint code of MARS, which is used by the website and code-writing end users. In writing these API endpoints, this division also writes all the corresponding logic/brains of MARS. Final decisions about the API code and related business logic (except for select security areas) lie with this division.
 
 ## Typical users/customers of the division:

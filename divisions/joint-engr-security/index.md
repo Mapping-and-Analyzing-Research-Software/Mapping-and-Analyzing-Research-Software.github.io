@@ -1,6 +1,4 @@
-Joint Web+Core - Authentication, Authorization, and Security
-
-## Description:
+# Joint Web+Core - Authentication, Authorization, and Security
 This division is in charge of authentication (a user is who they say they are), authorization (the authenticated user is allowed to access X part of MARS), and the overall security of MARS (including the encryption/hashing of sensitive data) lie with this division.
 
 ## Typical users/customers of the division:

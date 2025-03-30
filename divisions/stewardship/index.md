@@ -1,6 +1,4 @@
 # Stewardship and People
-
-## Description:
 This division is also the governing board of MARS and the term "board" is also used to refer to this division. Division members, who must be US Citizens, are the legal board members. While respectful of the autonomy of other divisions, the Stewardship and People division makes policies, procedures, orders, etc., that are binding on the rest of MARS. The power to create policies/procedures by other divisions is delegated from the board. Appeals to authority end with the board. The buck stops here.
 
 The board draws its members from a democratic process featuring nominations and elections, with staggered terms for board members, and the franchise open to all Martians who have made a minimally sufficient contribution in the last two years. (E.g., made a commit to GitHub, donated money.)
