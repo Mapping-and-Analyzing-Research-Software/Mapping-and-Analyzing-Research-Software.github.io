@@ -1,6 +1,6 @@
 # Procedures for Core Buisness Logic and APIs
 
-Write a description for how Martians can contribute new features to the API/logic components of MARS.
+TODO: Write a description for how Martians can contribute new features to the API/logic components of MARS.
 
 ## Checklist for getting features approved:
 

@@ -1,6 +1,6 @@
 # Procedures for Security
 
-Write a description for how Martians can contribute new features that pass security snuff.
+TODO: Write a description for how Martians can contribute new features that pass security snuff.
 
 ## Checklist for getting features approved:
 

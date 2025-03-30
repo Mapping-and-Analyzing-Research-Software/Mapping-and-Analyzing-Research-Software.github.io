@@ -1,6 +1,6 @@
 # Procedures for Budget and Legal
 
-Write a description for how the division gets stuff done.
+TODO: Write a description for how the division gets stuff done.
 
 ## How decisions get made
 

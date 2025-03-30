@@ -1,6 +1,6 @@
 # Procedures for website design
 
-Write a description for how Martians can contribute new features that have a display/UI/UX for end users of MARS.
+TODO: Write a description for how Martians can contribute new features that have a display/UI/UX for end users of MARS.
 
 ## Checklist for getting features approved:
 

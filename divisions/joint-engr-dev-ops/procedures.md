@@ -1,6 +1,6 @@
 # Procedures for Infastructure, CI/CD, Quality Assurance
 
-Write a description for how Martians can contribute new features to MARS.
+TODO: Write a description for how Martians can contribute new features to MARS.
 
 ## Checklist for getting features approved:
 

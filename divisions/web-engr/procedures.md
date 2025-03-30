@@ -1,6 +1,6 @@
 # Procedures for website engineering
 
-Write a description for how Martians can contribute new features to the website code of MARS.
+TODO: Write a description for how Martians can contribute new features to the website code of MARS.
 
 ## Checklist for getting features approved:
 

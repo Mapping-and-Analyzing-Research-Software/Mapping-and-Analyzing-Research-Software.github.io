@@ -1,6 +1,4 @@
 # Evangelism, Public relations, Integration, and Community (EPIC)
-
-## Description:
 The EPIC division does the advertising and marketing for MARS, the formal outreach to other communities, and the lead on fundraising campaigns.
 
 ## Typical users/customers of the division:

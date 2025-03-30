@@ -1,6 +1,6 @@
 # Procedures for Core Data
 
-Write a description for how Martians can contribute new features to the data components of MARS.
+TODO: Write a description for how Martians can contribute new features to the data components of MARS.
 
 ## Checklist for getting features approved:
 

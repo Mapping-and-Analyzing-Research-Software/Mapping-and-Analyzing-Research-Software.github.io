@@ -1,6 +1,6 @@
 # Procedures for Core Notification
 
-Write a description for how Martians can contribute new features to the notification components of MARS.
+TODO: Write a description for how Martians can contribute new features to the notification components of MARS.
 
 ## Checklist for getting features approved:
 
