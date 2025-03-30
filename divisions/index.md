@@ -19,7 +19,7 @@ Each division has an area of ownership, a set of primary users/customers (either
 - [Budget and Legal](/divisions/budget-and-legal/)
 - [Stewardship and People](/divisions/stewardship/) (our governing board)
 
-Each division is described in more detail in the links above.
+Each division is described in more detail in the links above. The job responsibilities for [division leads are here](/divisions/lead.md).
 
 There are some [procedures](./procedures.md) for all divisions (such as the appointment of division leads) which are common across MARS.
 
