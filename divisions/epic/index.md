@@ -4,9 +4,12 @@ The EPIC division does the advertising and marketing for MARS, the formal outrea
 ## Typical users/customers of the division:
 End Users, external organizations, budget division, stewardship division.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities:
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Create and execute advertising/marketing/fundraising campaigns, approved by stewardship division.
 - Meet fundraising goals of $X, where $X is determined by the budget division.
 - Identify events to attend where MARS can be demo'd.

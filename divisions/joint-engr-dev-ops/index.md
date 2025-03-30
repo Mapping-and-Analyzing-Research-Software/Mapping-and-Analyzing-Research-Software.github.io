@@ -4,9 +4,12 @@ The division, our "dev ops" division, is in charge of the servers where MARS is 
 ## Typical users/customers of the division:
 All other Engineering divisions, feature stewards.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities:
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Procure and maintain the servers, networks, domain names, etc., for MARS.
 - Implement technologies for seamless deployment of code to the servers.
 - Implement the requirements developed by the folks in other divisions; namely, get their code accepted and "live" ASAP.

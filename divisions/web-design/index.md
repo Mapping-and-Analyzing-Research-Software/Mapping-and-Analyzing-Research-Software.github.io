@@ -4,9 +4,12 @@ This division owns the user experience and user interface design of MARS. Final 
 ## Typical users/customers of the division:
 End users of the website (non-coders), feature stewards.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities:
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Work with end users to create designs / visualizations / userflows / requirements for the folks in the Website - Engineering Division to implement. Light a fire under their ass to ensure it gets developed to the satisfaction of your customers.
 
 ## Nice-to-have skills/background for Martians in this division:

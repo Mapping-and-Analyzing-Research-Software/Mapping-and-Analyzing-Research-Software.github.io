@@ -4,9 +4,12 @@ This division is in charge of databases, file storage, data lakes / warehouses, 
 ## Typical users/customers of the division:
 The Core (Backend) Engineering - Business logic division, feature stewards.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities: 
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Implement the requirements developed by the folks in the Business Logic division (typically through providing usable endpoints in Python to the data), in consultation with the feature stewards.
 - Create technical requirement documents for these divisions, as applicable:
 -- Core (Backend) Engineering - Administration (To make managing data easy / minimal manual SQL writing)

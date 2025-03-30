@@ -6,9 +6,12 @@ The board draws its members from a democratic process featuring nominations and 
 ## Typical users/customers of the division:
 End users, Martians.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities:
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Write a strategic plan for MARS as a whole, in close consultation with other Martians.
 - Develop policies and bylaws for MARS as a whole, including the charge/"job description" for each division.
 - Set fundraising goals for the EPIC division, oversee compliance from the Budget/Legal division, prioritize requests for money from all other divisions.

@@ -5,9 +5,12 @@ This division is in charge of the Command Line Interface (CLI) and other code wh
 ## Typical users/customers of the division:
 All of the other Core Engineering divisions, feature stewards.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities:
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Implement the requirements developed by the folks in the other engineering divisions (typically through providing a CLI tool they can SSH to), in consultation with the feature stewards.
 - Create technical requirement documents for other engineering divisions as needed. 
 Light a fire under their asses to ensure it gets developed to the satisfaction of your customers.

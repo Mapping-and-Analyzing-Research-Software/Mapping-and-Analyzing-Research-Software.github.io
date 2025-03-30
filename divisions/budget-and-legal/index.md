@@ -4,10 +4,12 @@ The budget and legal division is in charge of the money and legal matters.
 ## Typical users/customers of the division:
 Stewardship division, other divisons of MARS.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
+## Typical responsibilities: 
 
-**How this is done is up to you, within the bounds of the law and US accounting norms. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you, within the bounds of the law and US accounting norms. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Create a way to track budget requests and expenditures authorized by the stewardship division.
 - Open and manage the bank account, in partnership with the stewardship division.
 - Maintain the three key financial documents (Balance Sheet, Cash Flow, P&L/Income Statement).

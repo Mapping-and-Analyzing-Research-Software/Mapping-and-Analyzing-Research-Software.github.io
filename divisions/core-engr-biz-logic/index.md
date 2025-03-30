@@ -4,9 +4,12 @@ This division is the primary "backend" division. It owns all the API endpoint co
 ## Typical users/customers of the division:
 The Website (Frontend) - Engineering division, End users of the API, feature stewards.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Implement features requested by outside end users of the API, in consultation with the feature steward.
 - Implement the requirements developed by the folks in the Website (Frontend) - Engineering division, in consultation with the feature steward.
 - Create technical requirement documents for these divisions, as applicable:

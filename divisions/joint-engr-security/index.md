@@ -4,9 +4,12 @@ This division is in charge of authentication (a user is who they say they are), 
 ## Typical users/customers of the division:
 All other Engineering divisions, feature stewards, end users.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities:
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Review all pull requests before they go to production for possible security vulnerabilities. Can override decisions of other divisions if there is a security concern.
 - Implement the requirements developed by the folks in other divisions as they relate to the security of MARS.
 - Implement and maintain MARS-wide user authentication and authorization technology, in a way which is minimally intrusive for other engineering divisions and delightful to end-users.

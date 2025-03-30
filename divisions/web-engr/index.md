@@ -4,9 +4,12 @@ This division owns all the code of the MARS website. Final decisions about the f
 ## Typical users/customers of the division:
 The Website (Frontend) - UX/UI division, End users of the website (non coders), feature stewards.
 
-## Typical responsibilities: Delight your users/customers. Your most important role is to serve them.
-**How this is done is up to you. We suggest that you:**
-- [Develop and publicize well-described procedures](./procedures.md) for others to effectively interact with the division.
+## Typical responsibilities:
+
+**Delight your users/customers. Your most important role is to serve them.**
+
+**How this is done is up to you. We suggest that Martians in this division:**
+- [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Implement the designs / visualizations / requirements developed by the folks in the Website (Frontend) - UX/UI division, in consultation with end users and feature stewards.
 - Create technical requirement documents for these divisions, as applicable:
 -- Core (Backend) Engineering - Business logic and API
