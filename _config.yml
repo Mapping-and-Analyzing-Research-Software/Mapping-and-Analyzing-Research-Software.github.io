@@ -1,0 +1,4 @@
+# theme: jekyll-theme-minimal
+
+include:
+  - "*.md"  # This will ensure any `.md` file is included in the site build process
