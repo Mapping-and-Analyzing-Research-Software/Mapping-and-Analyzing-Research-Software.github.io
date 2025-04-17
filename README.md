@@ -36,9 +36,9 @@ Each division has an area of ownership, a set of primary users/customers (either
 
 **Business divisions**
 - [Evangelism, Public relations, Integration, and Community (EPIC)](https://mapping-and-analyzing-research-software.github.io/divisions/epic/)
-    - [Sam]https://mapping-and-analyzing-research-software.github.io(/team/#sam-schwartz-phd) (Lead), [Boris](https://mapping-and-analyzing-research-software.github.io/team/#boris-veytsman-phd)
+    - [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead), [Boris](https://mapping-and-analyzing-research-software.github.io/team/#boris-veytsman-phd)
 - [Budget and Legal](https://mapping-and-analyzing-research-software.github.io/divisions/budget-and-legal/)
-    - [Sam]https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead)
+    - [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead)
 - [Stewardship and People](https://mapping-and-analyzing-research-software.github.io/divisions/stewardship/) (our governing board)
     - [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead), [Guy](https://mapping-and-analyzing-research-software.github.io/team/#guy-pavlov), [Anthony](https://mapping-and-analyzing-research-software.github.io/team/#anthony-dario)
 
