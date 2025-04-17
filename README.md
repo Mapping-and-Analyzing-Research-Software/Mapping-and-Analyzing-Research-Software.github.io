@@ -59,17 +59,17 @@ Thursdays are when MARS meets. Most Thursdays there are two MARS-related meeting
 
 Not all Martians have to attend all meetings. Here's the schedule.
 
-| Date \ Time (Zone)           | Pacific | Mountain | Central | Eastern | Meeting                           | Mandatory Attendance For                 | Typical Invite List           |
-|------------------------------|---------|----------|---------|---------|-----------------------------------|------------------------------------------|-------------------------------|
-| First Thursday of the Month  | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | All Hands                         | All Martians                             | Martians                      |
-| First Thursday of the Month  | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Feature Meeting             | All Dev Divisions                        | Only Devs                     |
-| Second Thursday of the Month | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Marketing, Fundraising, Community | EPIC                                     | Martians                      |
-| Second Thursday of the Month | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Division Meeting            | All Dev Divisions                        | Only Devs                     |
-| Third Thursday of the Month  | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Newcomer Orientation              | Stewardship Lead and Newcomers           | Stewardship, Leads, Newcomers |
-| Third Thursday of the Month  | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Feature Meeting             | All Dev Divisions                        | Only Devs                     |
-| Fourth Thursday of the Month | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Board Meeting                     | Stewardship & Leadership, Budget & Legal | Martians                      |
-| Fourth Thursday of the Month | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Division Meeting            | All Dev Divisions                        | Only Devs                     |
-| Fifth Thursday of the Month  | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Retrospective & Celebration | All Dev Divisions                        | Only Devs                     |
+| Date \ Time (Zone)           | Pacific  | Mountain | Central | Eastern | Meeting                           | Mandatory Attendance For                 | Typical Invite List           |
+|------------------------------|----------|----------|---------|---------|-----------------------------------|------------------------------------------|-------------------------------|
+| First Thursday of the Month  | 12pm-1pm | 1pm-2pm  | 2pm-3pm | 3pm-4pm | All Hands                         | All Martians                             | Martians                      |
+| First Thursday of the Month  | 1pm-2pm  | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Dev - Feature Meeting             | All Dev Divisions                        | Only Devs                     |
+| Second Thursday of the Month | 12pm-1pm | 1pm-2pm  | 2pm-3pm | 3pm-4pm | Marketing, Fundraising, Community | EPIC                                     | Martians                      |
+| Second Thursday of the Month | 1pm-2pm  | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Dev - Division Meeting            | All Dev Divisions                        | Only Devs                     |
+| Third Thursday of the Month  | 12pm-1pm | 1pm-2pm  | 2pm-3pm | 3pm-4pm | Newcomer Orientation              | Stewardship Lead and Newcomers           | Stewardship, Leads, Newcomers |
+| Third Thursday of the Month  | 1pm-2pm  | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Dev - Feature Meeting             | All Dev Divisions                        | Only Devs                     |
+| Fourth Thursday of the Month | 12pm-1pm | 1pm-2pm  | 2pm-3pm | 3pm-4pm | Board Meeting                     | Stewardship & Leadership, Budget & Legal | Martians                      |
+| Fourth Thursday of the Month | 1pm-2pm  | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Dev - Division Meeting            | All Dev Divisions                        | Only Devs                     |
+| Fifth Thursday of the Month  | 1pm-2pm  | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Dev - Retrospective & Celebration | All Dev Divisions                        | Only Devs                     |
 
 ## All Hands
 
