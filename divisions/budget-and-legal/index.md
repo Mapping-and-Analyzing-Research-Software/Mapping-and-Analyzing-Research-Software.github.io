@@ -2,7 +2,7 @@
 The budget and legal division is in charge of the money and legal matters.
 
 ## Typical users/customers of the division:
-Stewardship division, other divisons of MARS.
+Stewardship and People division, other divisions of MARS.
 
 ## Typical responsibilities: 
 

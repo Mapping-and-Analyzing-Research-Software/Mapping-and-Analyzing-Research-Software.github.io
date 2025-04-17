@@ -4,7 +4,7 @@ This division is the primary "backend" division. It owns all the API endpoint co
 ## Typical users/customers of the division:
 The Website (Frontend) - Engineering division, End users of the API, feature stewards.
 
-## Typical responsibilities
+## Typical responsibilities:
 
 **Delight your users/customers. Your most important role is to serve them.**
 

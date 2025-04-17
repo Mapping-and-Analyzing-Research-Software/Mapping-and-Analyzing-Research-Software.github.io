@@ -8,7 +8,7 @@ MARS is primarily for {academics, industry watchers, governments} doing empirica
 
 Unlike going to multiple different websites to track down data or writing complex code to identify and measure KPIs from scratch, users can do this discovery, data archiving + retrieval, and analysis through the MARS website's intuitive interface -- without having to write code. Users with coding ability can also directly connect to our well-documented APIs to power their own systems.
 
-Most of the code for the MARS project itself is open source. The MARS organization is in the process of becoming a 501(c)3 US-based non-profit, with board members nominated + elected though a democratic process by its core contributors / maintainers -- or as we like to call ourselves, **[Martians](https://mapping-and-analyzing-research-software.github.io/team/)**.
+Most of the code for the MARS project itself is open source. The MARS organization is in the process of becoming a 501(c)3 US-based non-profit, with board members nominated + elected through a democratic process by its core contributors / maintainers -- or as we like to call ourselves, **[Martians](https://mapping-and-analyzing-research-software.github.io/team/)**.
 
 # How Martians work
 
@@ -54,7 +54,7 @@ First things first, however, contact the lead of the Stewardship and People divi
 
 Thursdays are when MARS meets. Most Thursdays there are two MARS-related meetings:
 
-1. A "buisness" related meeting of some sort (e.g., an all hands, leadership board meeting, newcommer orientation, etc.) This meeting is at 1pm Pacific Time / 4pm Eastern Time.
+1. A "business" related meeting of some sort (e.g., an all hands, leadership board meeting, newcomer orientation, etc.) This meeting is at 1pm Pacific Time / 4pm Eastern Time.
 2. A "development" related meeting (e.g., feature request meeting or division break out meeting). This meeting is at 2pm Pacific Time / 5pm Eastern Time.
 
 Not all Martians have to attend all meetings. Here's the schedule.
@@ -86,12 +86,12 @@ Not all Martians have to attend all meetings. Here's the schedule.
 In weeks 1-4 of the month, the meeting starts off with brief announcements, any dev-wide Q&A, and Issues (e.g., new features or bug fixes) prioritized and assigned to Martians (e.g., assigned to a Feature Steward and/or specific divisions). This should all be accomplished within 15 minutes or less. Martians then break out into groups (sometimes groups of the whole) based on whether it's a feature week or a division week.
 
 MARS works around two week sprints.
-The first meeting of the sprint, is a *feature meeting*. A feature meeting is for Martians all working on a new feature (or non-trivial bug fix) to gather together and plan their work for the week.
-The second meeting of the sprint, is a *division meeting*. A division meeting is for Martians to gather with their primary division and coordinate the work they're doing with the rest of the division.
+The first meeting of the sprint, is a *feature meeting*, with agendas set by feature stewards. A feature meeting is for Martians all working on a new feature (or non-trivial bug fix) to gather together and plan their work for the week.
+The second meeting of the sprint, is a *division meeting*, with agendas set by division leads. A division meeting is for Martians to gather with their primary division and coordinate the feature work they're doing with the rest of the division.
 
 The first sprint happens on weeks 1-2 of the month, the second sprint happens on weeks 3-4.
 
-If a month has five Thursdays (which usually occurs once every 2-3 months), we use that extra "fifth" week to pause and do retrospectives and also celibrate what we've accomplished.
+If a month has five Thursdays (which usually occurs once every 2-3 months), we use that extra "fifth" week to pause and do retrospectives and also celebrate what we've accomplished.
 
 ## Marketing / Fundraising / Community / EPIC
 

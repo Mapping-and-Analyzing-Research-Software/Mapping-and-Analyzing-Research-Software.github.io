@@ -1,5 +1,5 @@
 # Evangelism, Public relations, Integration, and Community (EPIC)
-The EPIC division does the advertising and marketing for MARS, the formal outreach to other communities, and the lead on fundraising campaigns.
+The EPIC division does the advertising and marketing for MARS, the formal outreach to other communities, and takes the lead on fundraising campaigns.
 
 ## Typical users/customers of the division:
 End Users, external organizations, budget division, stewardship division.
@@ -12,6 +12,7 @@ End Users, external organizations, budget division, stewardship division.
 - [Develop and publicize well-described procedures](./procedures.md) for themselves and others to effectively interact with the division.
 - Create and execute advertising/marketing/fundraising campaigns, approved by stewardship division.
 - Meet fundraising goals of $X, where $X is determined by the budget division.
+- Identify end users
 - Identify events to attend where MARS can be demo'd.
 - Work with other Martians to write peer-reviewed articles on MARS in appropriate venues.
 

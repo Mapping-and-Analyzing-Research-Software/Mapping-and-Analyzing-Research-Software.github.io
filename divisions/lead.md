@@ -10,8 +10,8 @@ The Martians working in their division.
 **Delight your users/customers. Your most important role is to serve them.**
 
 **How this is done is up to you. We suggest to Martians in this role:**
-- Ensure that your division is fufiling its responsibilities.
-- Ensure that newcommers to your division have a successful first contribution in a timely manner.
+- Ensure that your division is fulfilling its responsibilities.
+- Ensure that newcomers to your division have a successful first contribution in a timely manner.
 - Set the agenda for your division's weekly/monthly meetings.
 - Read management books (we recommend Kim Scott's *Radical Candor*).
 - While allowing all voices to be heard, be the decider when there is disagreement in the division.
