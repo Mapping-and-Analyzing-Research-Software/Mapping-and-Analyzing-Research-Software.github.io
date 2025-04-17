@@ -1,3 +1,5 @@
+<img src="mars_logo_color.png" style="margin-left: auto; margin-right: auto;" alt="MARS" />
+
 # Welcome to MARS!
 
 MARS (*Mapping & Analyzing Research Software*) is a discovery platform, archive service, and analysis toolkit for data about research software (and related researchers/people + research papers).
