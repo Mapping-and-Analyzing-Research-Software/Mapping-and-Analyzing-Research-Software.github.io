@@ -1,4 +1,4 @@
-<img src="mars_logo_color.png" style="margin-left: auto; margin-right: auto;" alt="MARS" />
+<img src="https://mapping-and-analyzing-research-software.github.io/mars_logo_color.png" style="margin-left: auto; margin-right: auto;" alt="MARS" />
 
 # Welcome to MARS!
 
@@ -8,36 +8,47 @@ MARS is primarily for {academics, industry watchers, governments} doing empirica
 
 Unlike going to multiple different websites to track down data or writing complex code to identify and measure KPIs from scratch, users can do this discovery, data archiving + retrieval, and analysis through the MARS website's intuitive interface -- without having to write code. Users with coding ability can also directly connect to our well-documented APIs to power their own systems.
 
-Most of the code for the MARS project itself is open source. The MARS organization is in the process of becoming a 501(c)3 US-based non-profit, with board members nominated + elected though a democratic process by its core contributors / maintainers -- or as we like to call ourselves, **Martians**.
+Most of the code for the MARS project itself is open source. The MARS organization is in the process of becoming a 501(c)3 US-based non-profit, with board members nominated + elected though a democratic process by its core contributors / maintainers -- or as we like to call ourselves, **[Martians](https://mapping-and-analyzing-research-software.github.io/team/)**.
 
 # How Martians work
 
-There's a lot of work to do. MARS divides up the work by organizing itself into several divisions.
+There's a lot of work for [Martians](https://mapping-and-analyzing-research-software.github.io/team/) to do. MARS divides up the work by organizing itself into several divisions.
 
 Each division has an area of ownership, a set of primary users/customers (either internal Martians or external end-users), and a set of typical deliverables for these users/customers. These divisions are:
 
 **Product development divisions**
-- [Website (Frontend) -  UX-UI Design](/divisions/web-design/)
-- [Website (Frontend) -  Engineering](/divisions/web-engr/)
-- [Core (Backend) Engineering - Business logic and API](/divisions/core-engr-biz-logic/)
-- [Core (Backend) Engineering - Data persistence](/divisions/core-engr-data/)
-- [Core (Backend) Engineering - Notification](/divisions/core-engr-notification/)
-- [Core (Backend) Engineering - Administration](/divisions/core-engr-admin/)
-- [Joint Web+Core - Authentication, Authorization, and Security](/divisions/joint-engr-security/)
-- [Joint Web+Core - Infrastructure, CI/CD, and Quality Assurance](/divisions/joint-engr-dev-ops/)
+- [Website (Frontend) -  UX-UI Design](https://mapping-and-analyzing-research-software.github.io/divisions/web-design/)
+    - [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead)
+- [Website (Frontend) -  Engineering](https://mapping-and-analyzing-research-software.github.io/divisions/web-engr/)
+    - [Guy](https://mapping-and-analyzing-research-software.github.io/team/#guy-pavlov) (Lead), [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd)
+- [Core (Backend) Engineering - Business logic and API](https://mapping-and-analyzing-research-software.github.io/divisions/core-engr-biz-logic/)
+    - [Guy](https://mapping-and-analyzing-research-software.github.io/team/#guy-pavlov) (Lead), [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd), [Boris](https://mapping-and-analyzing-research-software.github.io/team/#boris-veytsman-phd)
+- [Core (Backend) Engineering - Data persistence](https://mapping-and-analyzing-research-software.github.io/divisions/core-engr-data/)
+    - [Guy](https://mapping-and-analyzing-research-software.github.io/team/#guy-pavlov) (Lead), [Anthony](https://mapping-and-analyzing-research-software.github.io/team/#anthony-dario)
+- [Core (Backend) Engineering - Notification](https://mapping-and-analyzing-research-software.github.io/divisions/core-engr-notification/)
+    - [Anthony](https://mapping-and-analyzing-research-software.github.io/team/#anthony-dario) (Lead), [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd)
+- [Core (Backend) Engineering - Administration](https://mapping-and-analyzing-research-software.github.io/divisions/core-engr-admin/)
+    - [Anthony](https://mapping-and-analyzing-research-software.github.io/team/#anthony-dario) (Lead), [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd)
+- [Joint Web+Core - Authentication, Authorization, and Security](https://mapping-and-analyzing-research-software.github.io/divisions/joint-engr-security/)
+    - [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead)
+- [Joint Web+Core - Infrastructure, CI/CD, and Quality Assurance](https://mapping-and-analyzing-research-software.github.io/divisions/joint-engr-dev-ops/)
+    - [Guy](https://mapping-and-analyzing-research-software.github.io/team/#guy-pavlov) (Lead), [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd), [Anthony](https://mapping-and-analyzing-research-software.github.io/team/#anthony-dario)
 
 **Business divisions**
-- [Evangelism, Public relations, Integration, and Community (EPIC)](/divisions/epic/)
-- [Budget and Legal](/divisions/budget-and-legal/)
-- [Stewardship and People](/divisions/stewardship/) (our governing board)
+- [Evangelism, Public relations, Integration, and Community (EPIC)](https://mapping-and-analyzing-research-software.github.io/divisions/epic/)
+    - [Sam]https://mapping-and-analyzing-research-software.github.io(/team/#sam-schwartz-phd) (Lead), [Boris](https://mapping-and-analyzing-research-software.github.io/team/#boris-veytsman-phd)
+- [Budget and Legal](https://mapping-and-analyzing-research-software.github.io/divisions/budget-and-legal/)
+    - [Sam]https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead)
+- [Stewardship and People](https://mapping-and-analyzing-research-software.github.io/divisions/stewardship/) (our governing board)
+    - [Sam](https://mapping-and-analyzing-research-software.github.io/team/#sam-schwartz-phd) (Lead), [Guy](https://mapping-and-analyzing-research-software.github.io/team/#guy-pavlov), [Anthony](https://mapping-and-analyzing-research-software.github.io/team/#anthony-dario)
 
 Each division is described in more detail in the links above.
 
 # Contributing
 
-[Click here](/contribute/) To learn more about contributions and adding features.
+[Click here](https://mapping-and-analyzing-research-software.github.io/contribute/) To learn more about contributions and adding features.
 
-First things first, however, contact the lead of the Stewardship and People division (see [team](/team/)) to schedule meeting and an invitation to orientation (see [calendar](#meetings-and-calendar)). Note that contributing to MARS requires an ongoing commitment in both time and code contributions.
+First things first, however, contact the lead of the Stewardship and People division (see [team](https://mapping-and-analyzing-research-software.github.io/team/)) to schedule meeting and an invitation to orientation (see [calendar](https://mapping-and-analyzing-research-software.github.io#meetings-and-calendar)). Note that contributing to MARS requires an ongoing commitment in both time and code contributions.
 
 # Meetings and Calendar
 
@@ -99,3 +110,7 @@ If a month has five Thursdays (which usually occurs once every 2-3 months), we u
 * Person who sets the agenda: Lead of the Stewardship & People Division.
 * Purpose: Work with Martians to design stratigic vision for MARS, develop and approve budget, conduct legal compliance tasks.
 * Who is required to attend: Leadership and Stewardship Lead, Budget and Legal Lead.
+
+# About
+
+MARS is powered by Martians, a dedicated crew of people who work for free on this project. Check out [our team's bios](https://mapping-and-analyzing-research-software.github.io/team/).

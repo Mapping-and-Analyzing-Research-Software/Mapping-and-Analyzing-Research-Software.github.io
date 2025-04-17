@@ -1,6 +1,6 @@
 # The Martians
 
-MARS is nothing without Martians. Here are our dedicated team of core maintainers, ordered by join date.
+MARS is nothing without Martians. Here is MARS' dedicated team of core maintainers, ordered by join date.
 
 ## Sam Schwartz, PhD
 
