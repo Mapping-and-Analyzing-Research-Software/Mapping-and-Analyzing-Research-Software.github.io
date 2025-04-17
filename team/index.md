@@ -36,5 +36,5 @@ MARS is nothing without Martians. Here is MARS' dedicated team of core maintaine
 
 * Join Date: April 7, 2025
 * GitHub Handle: [borisveytsman](https://github.com/borisveytsman)
-* Day Job: Researcher at the Chan Zuckerberg Initiative and George Mason University
-* Located In: California, USA / greater Washington DC area, USA
+* Day Job: Researcher at George Mason University
+* Located In: Washington DC Metro, USA
