@@ -37,7 +37,7 @@ Each division is described in more detail in the links above.
 
 [Click here](/contribute/) To learn more about contributions and adding features.
 
-First things first, however, contact the lead of the Stewardship and People division (see [team](#team) below) to schedule meeting and an invitation to orientation (see [calendar](#meetings-and-calendar) below). Note that contributing to MARS requires an ongoing commitment in both time and code contributions.
+First things first, however, contact the lead of the Stewardship and People division (see [team](/team/)) to schedule meeting and an invitation to orientation (see [calendar](#meetings-and-calendar)). Note that contributing to MARS requires an ongoing commitment in both time and code contributions.
 
 # Meetings and Calendar
 

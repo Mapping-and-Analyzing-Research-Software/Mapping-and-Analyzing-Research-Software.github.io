@@ -4,7 +4,7 @@ MARS is nothing without Martians. Here are our dedicated team of core maintainer
 
 ## Sam Schwartz, PhD
 
-![Sam Schwartz](sam.jpg)
+<img alt="Sam Schwartz" src="sam.jpg" style="width: 100px; border-radius: 50%;" />
 
 * Join Date: March 30, 2025
 * GitHub Handle: [samuel-schwartz](https://github.com/samuel-schwartz)
@@ -14,7 +14,7 @@ MARS is nothing without Martians. Here are our dedicated team of core maintainer
 
 ## Anthony Dario
 
-![Anthony Dario](anthony.jpg)
+<img alt="Anthony Dario" src="anthony.jpg" style="width: 100px; border-radius: 50%;" />
 
 * Join Date: March 30, 2025
 * GitHub Handle: [AnthonyDario](https://github.com/AnthonyDario)
@@ -23,7 +23,7 @@ MARS is nothing without Martians. Here are our dedicated team of core maintainer
 
 ## Guy Pavlov
 
-![Guy Pavlov](guy.jpg)
+<img alt="Guy Pavlov" src="guy.jpg" style="width: 100px; border-radius: 50%;" />
 
 * Join Date: March 31, 2025
 * GitHub Handle: [gpavlov2016](https://github.com/gpavlov2016)
@@ -32,7 +32,7 @@ MARS is nothing without Martians. Here are our dedicated team of core maintainer
 
 ## Boris Veytsman, PhD
 
-![Boris Veytsman](boris.jpg)
+<img alt="Boris Veytsman" src="boris.jpg" style="width: 100px; border-radius: 50%;" />
 
 * Join Date: April 7, 2025
 * GitHub Handle: [borisveytsman](https://github.com/borisveytsman)
