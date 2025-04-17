@@ -35,3 +35,65 @@ Each division is described in more detail in the links above.
 
 [Click here](/contribute/) To learn more about contributions and adding features.
 
+First things first, however, contact the lead of the Stewardship and People division (see [team](#team) below) to schedule meeting and an invitation to orientation (see [calendar](#meetings-and-calendar) below). Note that contributing to MARS requires an ongoing commitment in both time and code contributions.
+
+# Meetings and Calendar
+
+Thursdays are when MARS meets. Most Thursdays there are two MARS-related meetings:
+
+1. A "buisness" related meeting of some sort (e.g., an all hands, leadership board meeting, newcommer orientation, etc.) This meeting is at 1pm Pacific Time / 4pm Eastern Time.
+2. A "development" related meeting (e.g., feature request meeting or division break out meeting). This meeting is at 2pm Pacific Time / 5pm Eastern Time.
+
+Not all Martians have to attend all meetings. Here's the schedule.
+
+| Date \ Time (Zone)           | Pacific | Mountain | Central | Eastern | Meeting                           | Mandatory Attendance For                 | Typical Invite List           |
+|------------------------------|---------|----------|---------|---------|-----------------------------------|------------------------------------------|-------------------------------|
+| First Thursday of the Month  | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | All Hands                         | All Martians                             | Martians                      |
+| First Thursday of the Month  | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Feature Meeting             | All Dev Divisions                        | Only Devs                     |
+| Second Thursday of the Month | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Marketing, Fundraising, Community | EPIC                                     | Martians                      |
+| Second Thursday of the Month | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Division Meeting            | All Dev Divisions                        | Only Devs                     |
+| Third Thursday of the Month  | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Newcomer Orientation              | Stewardship Lead and Newcomers           | Stewardship, Leads, Newcomers |
+| Third Thursday of the Month  | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Feature Meeting             | All Dev Divisions                        | Only Devs                     |
+| Fourth Thursday of the Month | 1pm-2pm | 2pm-3pm  | 3pm-4pm | 4pm-5pm | Board Meeting                     | Stewardship & Leadership, Budget & Legal | Martians                      |
+| Fourth Thursday of the Month | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Division Meeting            | All Dev Divisions                        | Only Devs                     |
+| Fifth Thursday of the Month  | 2pm-3pm | 3pm-4pm  | 4pm-5pm | 5pm-6pm | Dev - Retrospective & Celebration | All Dev Divisions                        | Only Devs                     |
+
+## All Hands
+
+* Person who sets the agenda: Lead of the Stewardship & People Division.
+* Purpose: Provide MARS-wide announcements to all Martians, discuss MARS-wide issues, conduct votes on stratigic direction/governance. Will also sometimes invite stakeholders/non-Martians to join.
+* Who is required to attend: All Martians
+
+## Dev Meeting
+
+* Person who sets the agenda: Lead of the Stewardship & People Division.
+* Purpose: Update and coordinate the software development-related work of MARS.
+* Who is required to attend: Leadership and Stewardship Lead, all Martians working in a development division.
+
+In weeks 1-4 of the month, the meeting starts off with brief announcements, any dev-wide Q&A, and Issues (e.g., new features or bug fixes) prioritized and assigned to Martians (e.g., assigned to a Feature Steward and/or specific divisions). This should all be accomplished within 15 minutes or less. Martians then break out into groups (sometimes groups of the whole) based on whether it's a feature week or a division week.
+
+MARS works around two week sprints.
+The first meeting of the sprint, is a *feature meeting*. A feature meeting is for Martians all working on a new feature (or non-trivial bug fix) to gather together and plan their work for the week.
+The second meeting of the sprint, is a *division meeting*. A division meeting is for Martians to gather with their primary division and coordinate the work they're doing with the rest of the division.
+
+The first sprint happens on weeks 1-2 of the month, the second sprint happens on weeks 3-4.
+
+If a month has five Thursdays (which usually occurs once every 2-3 months), we use that extra "fifth" week to pause and do retrospectives and also celibrate what we've accomplished.
+
+## Marketing / Fundraising / Community / EPIC
+
+* Person who sets the agenda: Lead of the EPIC Division.
+* Purpose: Coordinate the development and execution of the current EPIC plan.
+* Who is required to attend: EPIC division Martians
+
+## Newcomer Orientation
+
+* Person who sets the agenda: Lead of the Stewardship & People Division.
+* Purpose: Properly onboard every new Martian **BEFORE** the new Martian starts attending other meetings, contributing to GitHub, etc.
+* Who is required to attend: New Martians (and, optionally, their division lead).
+
+## Board Meeting
+
+* Person who sets the agenda: Lead of the Stewardship & People Division.
+* Purpose: Work with Martians to design stratigic vision for MARS, develop and approve budget, conduct legal compliance tasks.
+* Who is required to attend: Leadership and Stewardship Lead, Budget and Legal Lead.
